@@ -1,4 +1,4 @@
-# ☁️🔍 Displaying Metadata Information (ExifTool)
+# 🔍 Displaying Metadata Information (ExifTool)
 
 ![Badge](https://img.shields.io/badge/Cloud%20Security-Metadata%20Analysis%20%7C%20ExifTool-red?style=for-the-badge)
 
