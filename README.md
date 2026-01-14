@@ -2,6 +2,9 @@
 
 ![Badge](https://img.shields.io/badge/Cloud%20Security-Metadata%20Analysis%20%7C%20ExifTool-red?style=for-the-badge)
 
+📄 **Full Lab Report:**  
+👉 [Click here to open the complete lab report](https://github.com/Pelumi-Johnson/-Creating-a-Virtual-Machine-and-Installing-Ubuntu-Using-Hyper-V/blob/main/Creating%20a%20Virtual%20Machine%20and%20Installing%20Ubuntu%20Using%20Hyper-V%20%20.pdf)
+
 ## 📌 Project Overview
 UMGC cloud security lab focused on displaying, analyzing, and modifying metadata within image files using ExifTool. The lab emphasizes command-line analysis, metadata attribution, and verification techniques relevant to cloud security and digital forensics.
 
